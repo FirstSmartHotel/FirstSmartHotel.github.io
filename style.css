@@ -57,7 +57,9 @@ html{
     margin: 0 auto;
     padding-bottom: 115px;
 }
-
+.plakat_img{
+    width: 500px;
+}
 .text1{
     font-size: 18px;
     margin-top: 34px;
